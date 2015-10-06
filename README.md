@@ -8,8 +8,8 @@ Implemented alternative colors:
 - Mint
 
 
-![Xdwaita Origin](https://raw.githubusercontent.com/GabMus/Xdwaita-color/raw/master/Screenshot/Adwaita-xenlism-edition-origin.png)
+![Xdwaita Origin](https://github.com/GabMus/Xdwaita-colors/raw/master/Screenshot/Adwaita-xenlism-edition-origin.png)
 
-![Xdwaita FineDay](https://raw.githubusercontent.com/GabMus/Xdwaita-color/master/Screenshot/Adwaita-xenlism-edition.png)
+![Xdwaita FineDay](https://github.com/GabMus/Xdwaita-colors/raw/master/Screenshot/Adwaita-xenlism-edition.png)
 
 ![Xdwaita Mint](https://raw.githubusercontent.com/GabMus/Xdwaita-colors/master/Screenshot/preview-mint.png)
