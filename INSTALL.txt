@@ -1,0 +1,8 @@
+To install this icon pack move it to
+    ~/.icons/
+or better to
+    /usr/share/icons/
+
+To change folder colors you need the folder-color-nautilus-bzr package.
+If you're using Arch you can find it on AUR, otherwise here's the upstream url:
+    http://foldercolor.tuxfamily.org/
