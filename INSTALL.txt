@@ -1,4 +1,4 @@
-To install this icon pack move it to
+To install this icon pack move the folder icons/Xenlism-Xdwaita-colors to
     ~/.icons/
 or better to
     /usr/share/icons/
